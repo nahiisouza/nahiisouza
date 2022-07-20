@@ -1,4 +1,4 @@
-Hello, welcome! My name is Naiara, I'm a front-end web developer and Systems Analyst and I live in Ribeirão Preto, Brazil :D
+Hello, welcome! My name is Naiara, I'm a front-end web developer and I live in Ribeirão Preto, Brazil :D
 
 <div align="center">
   <a href="https://github.com/nahiisouza">
@@ -23,4 +23,3 @@ Hello, welcome! My name is Naiara, I'm a front-end web developer and Systems Ana
   <a href="https://www.linkedin.com/in/naiara-souza-206354208/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
